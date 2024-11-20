@@ -26,13 +26,16 @@ let tabs = [
     },
     {
         id: 3,
-        label: "Extras",
+        label: "Cursos alura",
         desc: <div className="list-disc">
             <li>
-                Apresentação BRAGANTEC 2023
+                HTML,CSS
             </li>
             <li>
-                Apresentação em congresso CONICT 2023
+                Laravel, php
+            </li>
+            <li>
+                git
             </li>
         </div>,
     },
