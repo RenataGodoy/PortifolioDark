@@ -1,7 +1,7 @@
 import Drawer from "../components/Drawer";
 import MaxWidthWrapper from "../components/MaxWidthWrapper";
 
-export default function Navbar() {
+export default function TempNavbar() {
 
     const links = [
         {
